@@ -121,7 +121,7 @@ Under the following terms:
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 - **Keep this notice** — You must keep the original license notice unchanged
 
-See the [LICENSE](LICENSE) file or visit [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+Visit [creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
