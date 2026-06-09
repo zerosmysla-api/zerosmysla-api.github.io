@@ -21,7 +21,7 @@ This library is a mathematically rigorous, thoroughly documented, and utterly us
 - 🎯 **Zero dependencies** — pure vanilla JS
 - 🚫 **Zero meaning** — guaranteed
 - 🔬 **∅(x) = undefined** — mathematically proven
-- 📦 **2 KB** — lightweight nothingness
+- 📦 **18 KB** — lightweight nothingness
 - 🌐 **Works everywhere** — browser, Node.js, Deno, Bun
 - 🧘 **Zen programming** — reduces cognitive load to zero
 
