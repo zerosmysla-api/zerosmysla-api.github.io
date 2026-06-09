@@ -127,12 +127,32 @@ See the [LICENSE](LICENSE) file or visit [creativecommons.org/licenses/by-sa/4.0
 
 ## ⚠️ Disclaimer
 
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+ *
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO
+LOSS OF TIME, CONFUSION IN CODE, FEELINGS OF EXISTENTIAL MEANINGLESSNESS,
+THE URGE TO QUESTION ALL OF YOUR CAREER CHOICES, OR OTHER PSYCHOLOGICAL LOSSES.
+ 
+CRITICAL SYSTEMS DISCLAIMER:
+     This software is NOT AUTHORIZED for use in any system where failure could
+     result in death, personal injury, severe property damage, or environmental harm.
+     Prohibited applications include, but are not limited to:
+        - Medical devices, life support, or healthcare systems
+        - Aircraft, spacecraft, autonomous vehicles, or any transportation
+        - Nuclear reactors, chemical plants, or industrial control systems
+        - Weapon systems or military applications
+        - Critical infrastructure (power, water, telecom, finance)
 
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF TIME, CONFUSION IN CODE, FEELINGS OF EXISTENTIAL MEANINGLESSNESS, THE DESIRE TO REWRITE EVERYTHING IN RUST, OR OTHER PSYCHOLOGICAL LOSSES.
+     The author assumes NO liability for any use in these domains.
 
 **Prohibition of Meaningful Use:**  
 This library is NOT intended for deriving any real benefit. Any discovery of practical application of this library means that you have misunderstood something in life.
+
+     That being said, let's be honest — just DON'T USE THIS SOFTWARE AT ALL.
+     It returns undefined. That is literally all it does. What were you even thinking?
 
 ---
 
